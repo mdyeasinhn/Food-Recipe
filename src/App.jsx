@@ -1,5 +1,8 @@
 
 import './App.css'
+import Banner from './componentes/Banner/Banner'
+import Header from './componentes/Header/Header'
+import TitleDescrption from './componentes/TitleDescrption/TitleDescrption'
 
 function App() {
   
@@ -7,7 +10,9 @@ function App() {
   return (
     <>
     
-      <h1>Vite + React</h1>
+      <Header ></Header>
+      <Banner></Banner>
+      <TitleDescrption></TitleDescrption>
     
      
     </>
