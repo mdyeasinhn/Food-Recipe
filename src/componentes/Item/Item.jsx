@@ -6,7 +6,7 @@ const Item = ({ pd, handleWantToCook }) => {
       <div className="card   rounded-lg p-12 ">
         <img
           className="w-[300px] rounded-lg"
-          src="https://i0.wp.com/picjumbo.com/wp-content/uploads/painted-natural-scenery-with-high-mountains-free-photo.jpeg?w=2210&quality=70"
+          src={pd.recipe_image}
           alt=""
         />
         <h1 className="text-xl font-semibold">{pd.recipe_name}</h1>

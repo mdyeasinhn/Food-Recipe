@@ -2,7 +2,7 @@
     {
       "recipe_id": 1,
       "recipe_name": "Chicken stir Fry",
-      "recipe_image": "chicken_stir_fry.jpg",
+      "recipe_image": "https://i.ibb.co/1Qxk1Tt/Recipe-1.png",
       "short_description": "A delicious and healthy chicken stir fry recipe.",
       "ingredients": [
         "550 g chicken",
@@ -17,7 +17,7 @@
     {
       "recipe_id": 2,
       "recipe_name": "Vegetable Curry",
-      "recipe_image": "https://ibb.co/qdwDbw6",
+      "recipe_image": "https://i.ibb.co/1Lx0Hxc/Recipe-2.png",
       "short_description": "A flavorful vegetable curry with spices.",
       "ingredients": [
         "300 g mixed vegetables",
@@ -33,7 +33,7 @@
     {
       "recipe_id": 3,
       "recipe_name": "Pasta Carbonara",
-      "recipe_image": "https://ibb.co/Mf3S3Pw",
+      "recipe_image": "https://i.ibb.co/1Qxk1Tt/Recipe-1.png",
       "short_description": "Classic Italian pasta dish with bacon and cheese.",
       "ingredients": [
         "400 g spaghetti",
@@ -49,7 +49,7 @@
     {
       "recipe_id": 4,
       "recipe_name": "Greek Salad",
-      "recipe_image": "https://ibb.co/qdwDbw6",
+      "recipe_image": "https://i.ibb.co/1Lx0Hxc/Recipe-2.png",
       "short_description": "Fresh and healthy Greek salad with feta cheese.",
       "ingredients": [
         "200 g tomatoes",
@@ -65,7 +65,7 @@
     {
       "recipe_id": 5,
       "recipe_name": "Banana Bread",
-      "recipe_image": "https://ibb.co/Mf3S3Pw",
+      "recipe_image": "https://i.ibb.co/1Qxk1Tt/Recipe-1.png",
       "short_description": "Moist and delicious banana bread recipe.",
       "ingredients": [
         "3 ripe bananas",
@@ -81,7 +81,7 @@
     {
       "recipe_id": 6,
       "recipe_name": "Grilled Salmon",
-      "recipe_image": "https://ibb.co/qdwDbw6",
+      "recipe_image": "https://i.ibb.co/1Lx0Hxc/Recipe-2.png",
       "short_description": "Healthy grilled salmon with lemon and herbs.",
       "ingredients": [
         "400 g salmon fillets",
